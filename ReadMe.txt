@@ -1,0 +1,2 @@
+This application coverts given JSON to XML format.Input file path and Output file path should be the inputs for the service as below.
+http://localhost:8080/convertjsontxml?inputfilepath=C:/Users/Desktop/JSON.json&outputfilepath=C:/Users/Desktop/test2.xml

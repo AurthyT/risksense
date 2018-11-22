@@ -1,0 +1,5 @@
+com\risksense\converters\JsonXmlConversionApplication.class
+com\risksense\converters\XMLJSONConverterI.class
+com\risksense\converters\ConverterFactory.class
+com\risksense\converters\JsonXmlConverter.class
+com\risksense\converters\ServletInitializer.class

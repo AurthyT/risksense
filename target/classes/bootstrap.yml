@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      fail-fast: false
+  application:
+    name: @project.artifactId@
